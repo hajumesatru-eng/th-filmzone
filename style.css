@@ -1,0 +1,5 @@
+body{font-family:sans-serif;margin:0;background:#eef2f5}
+.hero{background:#00bcd4;color:#fff;text-align:center;padding:20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;padding:10px}
+.card img{width:100%}
+.poster{width:200px}
